@@ -1,0 +1,234 @@
+
+/*Entrada Facebook*/
+.backg{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(240,242,245);
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.centro{
+    padding-top: 150px;
+}
+.facebook{
+    width: 50%;
+    height: 100%;
+}
+.ancho{
+    height: 100px;
+    width: 100%;
+}
+
+li>a{
+    color: rgb(164,180,191);
+    font-size: 14px;
+} 
+
+.blue{
+    color: blue;
+}
+
+/*Facebook*/
+
+.fondo{
+    background: rgb(233,235,238);
+    width:100%;
+    height: 100%;
+}
+
+.post-color{
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+.post-m{
+    margin-top: 70px;
+}
+
+.menul div a{
+     font-size: 12px !important;
+     background: rgb(233,235,238);
+     border: none;
+     margin: 0px !important; 
+     
+
+}
+
+.bl{
+    padding-top: 14px;
+    color: white !important;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.pmenulateral{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 12px !important;
+    font-weight: bold !important; 
+    color: rgb(97,103,112);
+}
+.barra{
+    background: rgb(66,103,178);
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.logo{
+    margin-left: 15%;
+}
+.iconos{
+    padding-top: 6px;
+}
+.con-coment{
+    display: flex;
+    justify-content: space-around;
+}
+.comentario{
+    margin-top: 5px;
+    background: rgb(245,246,247) ;
+    border-radius: 4px;
+
+}
+.header-post{
+        font-size: 12px;
+        font-weight: bold;
+        color: #4b4f56;
+        padding: 7px;
+}
+
+.foto-perfil{
+    height: 40px;
+    width: 40px;
+}
+.salas{
+    height: 60px;
+    width: 60px;
+}
+.salas:hover{
+    height: 55px;
+    width: 55px;
+}
+.historia{
+    width: 100px;
+    height: 200px;
+    object-fit: cover;
+}
+.historia:hover{
+    width: 95px;
+    height: 200px;
+    object-fit: cover;
+}
+.histo-text{
+    margin-top: 40px;
+    font-size: 14px;
+    color: white;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+.ul-post{
+    padding: 0;
+    margin: 0 0 0 5px;
+    list-style: none;
+}
+.post-posi{
+    margin: 0px !important;
+    padding-left: 10px !important;
+}
+.usuario-post, .usuario-post:hover{
+
+    text-decoration: none;
+}
+
+.bf{
+    border-radius: 12px;
+    margin-left: 2%;
+}
+.bc{
+    margin-left: 4%;
+}
+.text-p{
+    font-size: 13px;
+    text-justify: distribute;
+}
+.conte-p{
+   
+    width: 100%;
+    height: auto;
+}
+iframe{
+    width: 100%;
+    height: 250px;
+}
+.bc:hover{
+    background-color: rgb(233,235,238);
+}
+.im-post{
+    width: 100%;
+}
+
+.salas2{
+
+        height: 50px;
+        width: 50px;
+}
+
+
+.imapos1{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -443px;
+}
+.imapos2{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -443px;
+}
+.imapos3{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -443px;
+}
+.imapos4{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -443px;
+}
+
+.imapos{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -443px;
+}
+.imaposg{
+    background-image: url(../img/UlkKfrT3zzP.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-position: 0 -191px;
+}
+
